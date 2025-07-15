@@ -4,7 +4,7 @@ subtitle: "Template for development of regional lab manuals as part of the Passi
 page-layout: full
 ---
 
-## PAM SI Lab Manual Template
+## Right whale cruise manual Template
 
 A key priority of the PAM SI is to build an open science culture across the agency by leveraging GitHub as a collaboration, coordination, and project management tool. To achieve this we will develop national and regional lab manuals that follow a parallel structure and link to each other. These manuals will serve as the primary storage location for all lab related information, including methods and data management, and will be a single access resource to support coordination across science center PAM programs.
 
@@ -20,7 +20,6 @@ In order to keep consistency between science centers, the following sections/pag
 -   [Software](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Software.html)
 -   [Analysis](https://nmfs-ost.github.io/PAM_template_lab_manual/content/AnalysisMethods.html)
 -   [Reporting](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Reporting.html)
-
 
 ## Optional Pages
 
