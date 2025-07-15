@@ -56,7 +56,7 @@ website:
         text: Reporting
       - section: "Optional Pages"
         contents: 
-          - content/UberValues.qmd
+          - content/SharedValues.qmd
           - content/Onboarding.qmd
           - content/Offboarding.qmd
           - content/FieldMethods.qmd
