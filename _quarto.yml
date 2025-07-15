@@ -3,9 +3,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-ost.github.io/PAM_template_lab_manual/" 
-  repo-url: "https://github.com/nmfs-ost/PAM_template_lab_manual"
+  title: "RW cruise resources" 
+  site-url: "https://dpendleton1.github.io/PSD-WEB-RWcruise/" 
+  repo-url: "https://github.com/dpendleton1/PSD-WEB-RWcruise"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
