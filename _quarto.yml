@@ -35,7 +35,7 @@ website:
         text: Home
       - href: content/ZooplanktonSampling.qmd
         text: "Zooplankton Sampling"
-      section: content/Pre-cuise perparations.qmd
+      - section: content/Pre-cuise perparations.qmd
         contents: 
           - href: content/Crew-ist.qmd
             text: Crew
