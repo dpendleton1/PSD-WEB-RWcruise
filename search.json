@@ -195,13 +195,46 @@
     ]
   },
   {
-    "objectID": "content/FieldMethods.html",
-    "href": "content/FieldMethods.html",
-    "title": "Field Methods",
+    "objectID": "content/Crew.html",
+    "href": "content/Crew.html",
+    "title": "Crew list and information",
     "section": "",
-    "text": "A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example",
+    "text": "Crew list spreadsheet\nGear to bring",
     "crumbs": [
-      "Field Methods"
+      "Pre-cuise perparations",
+      "Crew List & Information"
+    ]
+  },
+  {
+    "objectID": "content/Inventory.html",
+    "href": "content/Inventory.html",
+    "title": "Inventory",
+    "section": "",
+    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example",
+    "crumbs": [
+      "Lab Management",
+      "Inventory"
+    ]
+  },
+  {
+    "objectID": "content/DataManagement.html",
+    "href": "content/DataManagement.html",
+    "title": "Data Management",
+    "section": "",
+    "text": "A data management section is required and should include the following information;\n\nData Archive Methods\n\nInformation on where your data is archived (PACM, NCEI, Tethys, Internal databases, etc)\nSAEL Example\n\nSpecies reference guide for your region\n\nDevelop a species and call type library for your region\nThis can include spectrograms of calls and sound clips\nPIFSC working on this, use them as an example once finalized\nSAEL Example\n\nMedia\n\nLinks to sound archives, media archives, web sites, blogs, etc.\nSAEL Example\n\n\nThis can be a section with subpages or a qmd\nGlider Lab Manual",
+    "crumbs": [
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "content/PublicationsPresentations.html",
+    "href": "content/PublicationsPresentations.html",
+    "title": "Publications and Presentations",
+    "section": "",
+    "text": "This is an optional page but is a great opportunity to highlight some of your publications and presentations.\nSAEL example (add once this page is corrected)",
+    "crumbs": [
+      "Optional Pages",
+      "Publications and Presentations"
     ]
   },
   {
@@ -235,35 +268,13 @@
     ]
   },
   {
-    "objectID": "content/PublicationsPresentations.html",
-    "href": "content/PublicationsPresentations.html",
-    "title": "Publications and Presentations",
+    "objectID": "content/FieldMethods.html",
+    "href": "content/FieldMethods.html",
+    "title": "Field Methods",
     "section": "",
-    "text": "This is an optional page but is a great opportunity to highlight some of your publications and presentations.\nSAEL example (add once this page is corrected)",
+    "text": "A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example",
     "crumbs": [
-      "Optional Pages",
-      "Publications and Presentations"
-    ]
-  },
-  {
-    "objectID": "content/DataManagement.html",
-    "href": "content/DataManagement.html",
-    "title": "Data Management",
-    "section": "",
-    "text": "A data management section is required and should include the following information;\n\nData Archive Methods\n\nInformation on where your data is archived (PACM, NCEI, Tethys, Internal databases, etc)\nSAEL Example\n\nSpecies reference guide for your region\n\nDevelop a species and call type library for your region\nThis can include spectrograms of calls and sound clips\nPIFSC working on this, use them as an example once finalized\nSAEL Example\n\nMedia\n\nLinks to sound archives, media archives, web sites, blogs, etc.\nSAEL Example\n\n\nThis can be a section with subpages or a qmd\nGlider Lab Manual",
-    "crumbs": [
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "content/Inventory.html",
-    "href": "content/Inventory.html",
-    "title": "Inventory",
-    "section": "",
-    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example",
-    "crumbs": [
-      "content/LabManagement1.qmd",
-      "Inventory"
+      "Field Methods"
     ]
   },
   {
@@ -305,7 +316,7 @@
     "section": "",
     "text": "A hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example).\nThis can be a section with subpages or a qmd",
     "crumbs": [
-      "content/LabManagement1.qmd",
+      "Lab Management",
       "Hardware"
     ]
   },
@@ -435,7 +446,7 @@
     "section": "",
     "text": "Include the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual",
     "crumbs": [
-      "content/LabManagement1.qmd",
+      "Lab Management",
       "Safety"
     ]
   },
