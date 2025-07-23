@@ -33,17 +33,17 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: content/ZooplanktonSampling.qmd
-        text: "Zooplankton Sampling"
-      - section: content/Pre-cuise perparations.qmd
+      - section: "Pre-cuise perparations"
         contents: 
-          - href: content/Crew-ist.qmd
-            text: Crew
+          - href: content/Crew.qmd
+            text: Crew List & Information
           - href: content/Inventory1.qmd
             text: Inventory
           - href: content/Hardware1.qmd
             text: Hardware
-      - section: content/LabManagement1.qmd
+      - href: content/ZooplanktonSampling.qmd
+        text: "Zooplankton Sampling"
+      - section: "Lab Management"
         contents: 
           - href: content/Safety.qmd
             text: Safety
