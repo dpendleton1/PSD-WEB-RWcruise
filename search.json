@@ -4,27 +4,17 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "A key priority of the PAM SI is to build an open science culture across the agency by leveraging GitHub as a collaboration, coordination, and project management tool. To achieve this we will develop national and regional lab manuals that follow a parallel structure and link to each other. These manuals will serve as the primary storage location for all lab related information, including methods and data management, and will be a single access resource to support coordination across science center PAM programs.",
+    "text": "The purpose of this site is as a central place to access cruise information, resources, methods, results, and more.\nIn order to keep consistency between science centers, the following sections/pages will be required in all lab manuals. These will be directly linked to the National PAM Repository. The links will direct you to the associated template page with more directions on what to include.\n\nHome Page (this page): Edit this page to include an introduction to your lab, projects you are working on, etc.\nLab Management\nField Methods\nData Management\nHardware\nSoftware\nAnalysis\nReporting",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "index.html#right-whale-cruise-manual-template",
-    "href": "index.html#right-whale-cruise-manual-template",
+    "objectID": "index.html#right-whale-cruise-information",
+    "href": "index.html#right-whale-cruise-information",
     "title": "Home",
     "section": "",
-    "text": "A key priority of the PAM SI is to build an open science culture across the agency by leveraging GitHub as a collaboration, coordination, and project management tool. To achieve this we will develop national and regional lab manuals that follow a parallel structure and link to each other. These manuals will serve as the primary storage location for all lab related information, including methods and data management, and will be a single access resource to support coordination across science center PAM programs.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#required-pages",
-    "href": "index.html#required-pages",
-    "title": "Home",
-    "section": "Required Pages",
-    "text": "Required Pages\nIn order to keep consistency between science centers, the following sections/pages will be required in all lab manuals. These will be directly linked to the National PAM Repository. The links will direct you to the associated template page with more directions on what to include.\n\nHome Page (this page): Edit this page to include an introduction to your lab, projects you are working on, etc.\nLab Management\nField Methods\nData Management\nHardware\nSoftware\nAnalysis\nReporting",
+    "text": "The purpose of this site is as a central place to access cruise information, resources, methods, results, and more.\nIn order to keep consistency between science centers, the following sections/pages will be required in all lab manuals. These will be directly linked to the National PAM Repository. The links will direct you to the associated template page with more directions on what to include.\n\nHome Page (this page): Edit this page to include an introduction to your lab, projects you are working on, etc.\nLab Management\nField Methods\nData Management\nHardware\nSoftware\nAnalysis\nReporting",
     "crumbs": [
       "Home"
     ]
@@ -170,10 +160,7 @@
     "href": "content/LabManagement.html",
     "title": "Lab Management",
     "section": "",
-    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory\nHardware",
-    "crumbs": [
-      "Lab Management"
-    ]
+    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory\nHardware"
   },
   {
     "objectID": "content/Offboarding.html",
@@ -275,7 +262,7 @@
     "section": "",
     "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example",
     "crumbs": [
-      "Lab Management",
+      "content/LabManagement1.qmd",
       "Inventory"
     ]
   },
@@ -318,7 +305,7 @@
     "section": "",
     "text": "A hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example).\nThis can be a section with subpages or a qmd",
     "crumbs": [
-      "Lab Management",
+      "content/LabManagement1.qmd",
       "Hardware"
     ]
   },
@@ -448,7 +435,7 @@
     "section": "",
     "text": "Include the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual",
     "crumbs": [
-      "Lab Management",
+      "content/LabManagement1.qmd",
       "Safety"
     ]
   },
