@@ -35,7 +35,15 @@ website:
         text: Home
       - href: content/ZooplanktonSampling.qmd
         text: "Zooplankton Sampling"
-      - section: content/LabManagement.qmd
+      section: content/Pre-cuise perparations.qmd
+        contents: 
+          - href: content/Crew-ist.qmd
+            text: Crew
+          - href: content/Inventory1.qmd
+            text: Inventory
+          - href: content/Hardware1.qmd
+            text: Hardware
+      - section: content/LabManagement1.qmd
         contents: 
           - href: content/Safety.qmd
             text: Safety

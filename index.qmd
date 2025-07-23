@@ -4,11 +4,9 @@ subtitle: "Template for development of regional lab manuals as part of the Passi
 page-layout: full
 ---
 
-## Right whale cruise manual Template
+## Right whale cruise information
 
-A key priority of the PAM SI is to build an open science culture across the agency by leveraging GitHub as a collaboration, coordination, and project management tool. To achieve this we will develop national and regional lab manuals that follow a parallel structure and link to each other. These manuals will serve as the primary storage location for all lab related information, including methods and data management, and will be a single access resource to support coordination across science center PAM programs.
-
-## Required Pages
+The purpose of this site is as a central place to access cruise information, resources, methods, results, and more.
 
 In order to keep consistency between science centers, the following sections/pages will be required in all lab manuals. These will be directly linked to the National PAM Repository. The links will direct you to the associated template page with more directions on what to include.
 
