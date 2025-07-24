@@ -1,0 +1,49 @@
+---
+title: "Outline"
+author: "DEP & HJF"
+editor: visual
+---
+
+# Outline for cruise quarto page
+
+-   Essential info:
+
+    -   Dates, Places
+
+    -   Broad study objectives
+
+-   Logistics
+
+    -   Crew List
+
+    -   Pre-cruise task list
+
+-   Permits
+
+    -   US
+
+    -   State Dept / RATS
+
+    -   SARA 73
+
+    -   SARA 38
+
+-   Google drive folder link
+
+-   Drone Ops
+
+-   To-do checklist
+
+-   Visual obs
+
+    -   VisSurv
+
+    -   Big Eyes
+
+    -   Observer schedule (link in
+
+-   Vessel info
+
+-   Science plan
+
+-   

@@ -3,9 +3,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "RW cruise resources" 
-  site-url: "https://dpendleton1.github.io/PSD-WEB-RWcruise/" 
-  repo-url: "https://github.com/dpendleton1/PSD-WEB-RWcruise"
+  title: "NOAA quarto simple" 
+  site-url: "https://dpendleton1.github.io/PSD-WEB-EgVesselResearch" 
+  repo-url: "https://github.com/dpendleton1/PSD-WEB-EgVesselResearch"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -21,11 +21,11 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://github.com/NEFSC
-        text: "NEFSC"
+        href: https://nmfs-ost.github.io/PAM_National_NMFS_Network
+        text: "NMFS National Passive Acoustic Monitoring Network"
       - icon: github
-        href: https://github.com/dpendleton1/PSD-WEB-RWcruise
-        text: "RW cruise resources"
+        href: "https://github.com/dpendleton1/PSD-WEB-EgVesselResearch"
+        text: "NMFS PAM SI Lab Manual Template"
 
     style: "docked"
     search: true
@@ -33,18 +33,7 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - section: "Pre-cuise perparations"
-        contents: 
-          - href: content/Crew.qmd
-            text: Crew List & Information
-          - href: content/personal-equipment.qmd
-            text: Personal items to bring 
-          - href: content/Safety.qmd
-            text: Safety
-          - href: content/Inventory.qmd
-            text: "Inventory checklist"
-
-      - section: "Lab Management"
+      - section: content/LabManagement.qmd
         contents: 
           - href: content/Safety.qmd
             text: Safety
@@ -59,7 +48,7 @@ website:
       - href: content/Hardware.qmd
         text: Hardware
       - section: content/SoftwareAnalysis.qmd
-        text: "Software & Analysis"
+#        text: "Software & Analysis"
         contents: 
           - content/Software.qmd
           - content/AnalysisMethods.qmd
@@ -74,7 +63,16 @@ website:
           - content/OpenScience.qmd
           - content/PublicationsPresentations.qmd
           - content/Resources.qmd
-
+      # - section: "NMFS Open Science Directions"  #Removed but did not yet delete
+      #   contents:
+      #     - content/NMFS_OpenSciDirections/Getting-Started.qmd
+      #     - content/NMFS_OpenSciDirections/organize.qmd
+      #     - content/NMFS_OpenSciDirections/add-content.qmd
+      #     - content/NMFS_OpenSciDirections/rendering.qmd
+      #     - content/NMFS_OpenSciDirections/rmarkdown.Rmd
+      #     - content/NMFS_OpenSciDirections/code.qmd
+      #     - content/NMFS_OpenSciDirections/acknowledgements.qmd 
+        
 format:
   html:
     theme:
@@ -88,3 +86,5 @@ format:
 filters:
   - include-files.lua
   - quarto
+
+  
