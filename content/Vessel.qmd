@@ -1,0 +1,6 @@
+---
+title: "Research Vessel"
+editor: visual
+---
+
+<https://oceanexplorer.noaa.gov/technology/vessels/nancy-foster/nancy-foster.html>

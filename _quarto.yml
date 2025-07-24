@@ -33,26 +33,16 @@ website:
     contents:
       - href: index.qmd
         text: Home
-        
       - section: "Pre-cuise perparations"
         contents: 
-          - href: content/crew.qmd
+          - href: content/Crew.qmd
             text: Crew List & Information
           - href: content/personal-equipment.qmd
             text: Personal items to bring 
           - href: content/Safety.qmd
             text: Safety
           - href: content/Inventory.qmd
-            text: Inventory checklist
-      
-      - section: "Vessel"
-          - href: content/vessel.qmd
-            text: Vessel
-      
-      - section: "Instruments & software"
-          - href: content/oceanographic-sampling.qmd
-            text: "Oceanographic Sampling"
-      
+            text: "Inventory checklist"
 
       - section: "Lab Management"
         contents: 
@@ -62,25 +52,19 @@ website:
             text: Inventory
           - href: content/Hardware.qmd
             text: Hardware
-      
       - href: content/FieldMethods.qmd
         text: "Field Methods"
-      
       - href: content/DataManagement.qmd
         text: Data Management
-      
       - href: content/Hardware.qmd
         text: Hardware
-      
       - section: content/SoftwareAnalysis.qmd
         text: "Software & Analysis"
         contents: 
           - content/Software.qmd
           - content/AnalysisMethods.qmd
-
       - href: content/Reporting.qmd
         text: Reporting
-
       - section: "Optional Pages"
         contents: 
           - content/SharedValues.qmd
@@ -90,16 +74,7 @@ website:
           - content/OpenScience.qmd
           - content/PublicationsPresentations.qmd
           - content/Resources.qmd
-      # - section: "NMFS Open Science Directions"  #Removed but did not yet delete
-      #   contents:
-      #     - content/NMFS_OpenSciDirections/Getting-Started.qmd
-      #     - content/NMFS_OpenSciDirections/organize.qmd
-      #     - content/NMFS_OpenSciDirections/add-content.qmd
-      #     - content/NMFS_OpenSciDirections/rendering.qmd
-      #     - content/NMFS_OpenSciDirections/rmarkdown.Rmd
-      #     - content/NMFS_OpenSciDirections/code.qmd
-      #     - content/NMFS_OpenSciDirections/acknowledgements.qmd 
-        
+
 format:
   html:
     theme:
