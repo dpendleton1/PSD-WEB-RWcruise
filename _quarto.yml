@@ -4,8 +4,8 @@ project:
 website: 
   page-navigation: true
   title: "NOAA quarto simple" 
-  site-url: "https://dpendleton1.github.io/PSD-WEB-EgVesselResearch" 
-  repo-url: "https://github.com/dpendleton1/PSD-WEB-EgVesselResearch"
+  site-url: "https://dpendleton1.github.io/PSD-WEB-RWcruise" 
+  repo-url: "https://github.com/dpendleton1/PSD-WEB-RWcruise"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -24,8 +24,8 @@ website:
         href: https://nmfs-ost.github.io/PAM_National_NMFS_Network
         text: "NMFS National Passive Acoustic Monitoring Network"
       - icon: github
-        href: "https://github.com/dpendleton1/PSD-WEB-EgVesselResearch"
-        text: "NMFS PAM SI Lab Manual Template"
+        href: "https://github.com/dpendleton1/PSD-WEB-RWcruise"
+        text: "Working version of cruise website"
 
     style: "docked"
     search: true
