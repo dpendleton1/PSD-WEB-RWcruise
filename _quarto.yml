@@ -33,6 +33,23 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - href: Permits.qmd
+        text: "Permit Information"      
+      - href: Permits.qmd
+        text: "Permit Information"      
+      - href: Permits.qmd
+        text: "Permit Information"      
+      - href: Permits.qmd
+        text: "Permit Information"      
+      - section: content/CrewResources.qmd
+        text: "Crew Resources"
+        contents: 
+          - href: content/CrewList.qmd
+            text: "Crew List"
+          - href: content/CrewTodos.qmd
+            text: "Pre-cruise todos (important info!)"
+          - href: content/FNRS.qmd
+            text: "Foreign National Information"        
       - section: content/LabManagement.qmd
         contents: 
           - href: content/Safety.qmd
