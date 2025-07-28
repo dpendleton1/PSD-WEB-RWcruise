@@ -40,7 +40,8 @@ website:
       - href: Permits.qmd
         text: "Permit Information"      
       - href: Permits.qmd
-        text: "Permit Information"      
+        text: "Permit Information"
+        
       - section: content/CrewResources.qmd
         text: "Crew Resources"
         contents: 
@@ -50,6 +51,7 @@ website:
             text: "Pre-cruise todos (important info!)"
           - href: content/FNRS.qmd
             text: "Foreign National Information"        
+            
       - section: content/LabManagement.qmd
         contents: 
           - href: content/Safety.qmd
@@ -58,19 +60,23 @@ website:
             text: Inventory
           - href: content/Hardware.qmd
             text: Hardware
+            
       - href: content/FieldMethods.qmd
         text: "Field Methods"
       - href: content/DataManagement.qmd
         text: Data Management
       - href: content/Hardware.qmd
         text: Hardware
+        
       - section: content/SoftwareAnalysis.qmd
-#        text: "Software & Analysis"
+        text: "Software & Analysis"
         contents: 
           - content/Software.qmd
           - content/AnalysisMethods.qmd
+          
       - href: content/Reporting.qmd
         text: Reporting
+        
       - section: "Optional Pages"
         contents: 
           - content/SharedValues.qmd
@@ -80,6 +86,7 @@ website:
           - content/OpenScience.qmd
           - content/PublicationsPresentations.qmd
           - content/Resources.qmd
+      
       # - section: "NMFS Open Science Directions"  #Removed but did not yet delete
       #   contents:
       #     - content/NMFS_OpenSciDirections/Getting-Started.qmd
