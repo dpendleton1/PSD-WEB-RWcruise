@@ -34,13 +34,20 @@ website:
       - href: index.qmd
         text: Home
       - href: Permits.qmd
-        text: "Permit Information"      
-      - href: Permits.qmd
-        text: "Permit Information"      
-      - href: Permits.qmd
+        text: "Permits"      
+      - href: Safety.qmd
+        text: "Safety"      
+      - href: Sampling.qmd
+        text: "Sampling Equipment"
+      - href: Vissurvey
+        text: "Vissurv"
+      - href: Science.qmd
         text: "Permit Information"      
       - href: Permits.qmd
         text: "Permit Information"
+      - href: Travel.qmd
+        text: "Fed and Affiliate Travel"
+        
         
       - section: content/CrewResources.qmd
         text: "Crew Resources"
@@ -51,6 +58,14 @@ website:
             text: "Pre-cruise todos (important info!)"
           - href: content/FNRS.qmd
             text: "Foreign National Information"        
+          - href: content/Computers.qmd
+            text: "Device Info"
+          - href: content/HealthForms.qmd
+            text: "Health Forms"
+          - href: content/eSAIL.qmd
+            text: "E-Sail"
+
+
             
       - section: content/LabManagement.qmd
         contents: 
